@@ -8,7 +8,7 @@ let package = Package(
     name: "TemporaryVariable",
     platforms: [
         .macOS(.v10_15),
-        .iOS(.v13),
+        .iOS(.v12),
         .tvOS(.v13),
         .watchOS(.v6),
         .macCatalyst(.v13),
